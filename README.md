@@ -6,6 +6,7 @@ This program simulates CPU scheduling algorithms:
 
 -Round Robin: preemptive
 
+
 1. Enter an integer representing the total number of processes.
 
 <img width="583" height="37" alt="image" src="https://github.com/user-attachments/assets/2cd83c70-1f32-45c7-bfc3-eac5873d55a4" />
@@ -27,6 +28,9 @@ Outputs:
 
 
 <img width="895" height="179" alt="image" src="https://github.com/user-attachments/assets/854b6caf-ac9d-4bf0-ae26-cc4a525800cd" />
+
+
+
 
 
 
