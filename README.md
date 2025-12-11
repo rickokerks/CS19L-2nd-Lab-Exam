@@ -1,4 +1,4 @@
-##**CPU Scheduling**
+## **CPU Scheduling**
 
 This program simulates CPU scheduling algorithms:
 
@@ -34,7 +34,7 @@ Outputs:
 
 
 
-##**Banker's Algorithm**
+## **Banker's Algorithm**
 
 This program implements Banker’s Algorithm to check if a system is in a safe state or unsafe state.
 
