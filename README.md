@@ -1,6 +1,9 @@
 (cpu_sched.py)
+
 This program simulates CPU scheduling algorithms:
+
 -FCFS (First Come First Serve):non-preemptive
+
 -Round Robin: preemptive
 
 1. Enter an integer representing the total number of processes.
@@ -13,6 +16,7 @@ This program simulates CPU scheduling algorithms:
 
 3. 
 Enter 1 for FCFS (non-preemptive)
+
 Enter 2 for Round Robin (preemptive)
 
 <img width="224" height="58" alt="image" src="https://github.com/user-attachments/assets/35dd387b-d93e-4d20-9708-182e6eff296f" />
