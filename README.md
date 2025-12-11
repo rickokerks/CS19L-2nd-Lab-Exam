@@ -1,4 +1,4 @@
-(cpu_sched.py)
+**CPU Scheduling**
 
 This program simulates CPU scheduling algorithms:
 
@@ -30,7 +30,8 @@ Outputs:
 
 
 
-(bankers.py)
+**Banker's Algorithm**
+
 This program implements Banker’s Algorithm to check if a system is in a safe state or unsafe state.
 
 1. Enter an integer representing the total number of processes and resources.
