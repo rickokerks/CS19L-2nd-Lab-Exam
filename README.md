@@ -1,4 +1,4 @@
-<img width="211" height="34" alt="image" src="https://github.com/user-attachments/assets/7b3a658b-79f2-4b77-a29d-9dcd914e0406" />(cpu_sched.py)
+(cpu_sched.py)
 This program simulates CPU scheduling algorithms:
 -FCFS (First Come First Serve):non-preemptive
 -Round Robin: preemptive
